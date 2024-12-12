@@ -7,6 +7,6 @@ class Program
       Console.WriteLine("| O |");
       Console.WriteLine("|   |");
       Console.WriteLine("'~~~'");
-      Console.WriteLine("This is Bob! Bob the ghost.");  
+      Console.WriteLine("This is Bob! Bob the ghost."); 
      }
   }
